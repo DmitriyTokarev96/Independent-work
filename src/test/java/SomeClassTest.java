@@ -1,6 +1,6 @@
-package hexlet.code;
-
 import static org.junit.jupiter.api.Assertions.*;
+
+import hexlet.code.SomeClass;
 import org.junit.jupiter.api.Test;
 
 class SomeClassTest {
